@@ -2,6 +2,6 @@
   "name": "Tether USD",
   "symbol": "$USD₮",
   "description": "Tether Token for Tether USD",
-  "decimals": 6,
+  "decimals": 9,
   "image": "https://tether.to/images/logoCircle.png"
 }
